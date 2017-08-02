@@ -1,0 +1,34 @@
+[19-Apr-2017 04:34:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home2/kamleshy/public_html/scripts/aff_sys/application/views/admin/include/header.php on line 63
+[25-Apr-2017 05:48:21 America/Chicago] PHP Fatal error:  Call to a member function getsettings() on a non-object in /home2/kamleshy/public_html/scripts/aff_sys/application/views/admin/website_setting.php on line 105
+[25-Apr-2017 05:48:28 America/Chicago] PHP Fatal error:  Call to a member function getsettings() on a non-object in /home2/kamleshy/public_html/scripts/aff_sys/application/views/admin/website_setting.php on line 105
+[25-Apr-2017 07:24:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'accountaccessimg_url' (T_STRING) in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Settings.php on line 102
+[25-Apr-2017 08:49:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Admin.php on line 18
+[25-Apr-2017 08:49:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Admin.php on line 19
+[25-Apr-2017 09:37:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/kamleshy/public_html/scripts/aff_sys/application/views/include/footer.php on line 15
+[25-Apr-2017 09:38:26 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/kamleshy/public_html/scripts/aff_sys/application/views/include/footer.php on line 15
+[25-Apr-2017 09:39:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/kamleshy/public_html/scripts/aff_sys/application/views/include/footer.php on line 18
+[25-Apr-2017 09:42:00 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/kamleshy/public_html/scripts/aff_sys/application/views/include/footer.php on line 21
+[26-Apr-2017 01:43:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Admin.php on line 42
+[26-Apr-2017 01:54:19 America/Chicago] PHP Fatal error:  Call to undefined method Ts_functions::sedlect_single() in /home2/kamleshy/public_html/scripts/aff_sys/application/views/admin/manage_referalls.php on line 26
+[29-Apr-2017 07:23:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 75
+[29-Apr-2017 07:49:16 America/Chicago] PHP Fatal error:  Call to undefined method User::access_database() in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 79
+[01-May-2017 08:19:56 America/Chicago] PHP Fatal error:  Cannot redeclare Notify::paypal_ipn() in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Notify.php on line 64
+[01-May-2017 08:29:39 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Notify.php on line 52
+[01-May-2017 08:58:58 America/Chicago] PHP Fatal error:  Cannot redeclare User::profile() in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 99
+[01-May-2017 08:59:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 180
+[01-May-2017 09:11:19 America/Chicago] PHP Fatal error:  Call to undefined method Ts_functions::getlanguage() in /home2/kamleshy/public_html/scripts/aff_sys/application/views/user/profile.php on line 20
+[01-May-2017 09:13:02 America/Chicago] PHP Fatal error:  Call to undefined method Ts_functions::getlanguage() in /home2/kamleshy/public_html/scripts/aff_sys/application/views/user/profile.php on line 37
+[01-May-2017 09:28:49 America/Chicago] PHP Fatal error:  Call to undefined method Ts_functions::getlanguage() in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 158
+[01-May-2017 09:36:39 America/Chicago] PHP Fatal error:  Call to undefined method Ts_functions::getlanguage() in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/User.php on line 164
+[03-May-2017 01:19:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$cartArr' (T_VARIABLE) in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 34
+[03-May-2017 01:26:00 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 38
+[03-May-2017 01:44:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 01:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 01:44:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 01:45:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 01:45:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 01:46:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 35
+[03-May-2017 02:06:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 45
+[03-May-2017 02:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$data_Arr' (T_VARIABLE) in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 41
+[03-May-2017 02:46:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/kamleshy/public_html/scripts/aff_sys/application/controllers/Welcome.php on line 60
+[22-Jul-2017 00:28:34 America/Chicago] PHP Parse error:  syntax error, unexpected ''"><h4>'' (T_CONSTANT_ENCAPSED_STRING) in /home2/kamleshy/public_html/scripts/lifekeypad/application/libraries/Ts_functions.php on line 190
